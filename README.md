@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshara Satheesh Nair.
-- 👀 I’m interested in coding, music and art.
+- 👀 I’m interested in coding especially ML, music and art.
 - ✨ I’m proficient in Python, C and C++.
 - 🌱 I’m currently learning JAVA.
 - 📫 You reach me on aksharasatheeshnair@gmail.com 
